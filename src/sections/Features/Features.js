@@ -8,7 +8,7 @@ const Features = () => {
     return (
         <section className='section-bg section-common features-section pt-100 pb-70' data-aos="fade-up" data-aos-duration="2000">
             <div className="container">
-                <SectionTitle subTitle="Features" title="Specialized  care through experiences" description="Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."/>
+                <SectionTitle subTitle="Features" title="Specialized  care through experiences" description="Benefit from specialized care through our experienced team, offering expert dental and cosmetology services. We combine advanced techniques with personalized attention to enhance both your oral health and cosmetic appearance."/>
 
                 <div className="row align-items-center">
                     {

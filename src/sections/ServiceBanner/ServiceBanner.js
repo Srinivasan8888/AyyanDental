@@ -12,8 +12,9 @@ const ServiceBanner = () => {
                         <div className="row align-items-center">
                             <div className="col-lg-5 col-md-6">
                                 <div className="service-banner-text" data-aos="fade-up" data-aos-duration="2000">
-                                    <h2>Root Canals</h2>
-                                    <p>Root canals have gotten a bad reputation, but us dentists don’t know why! These are the types of treatments that actually make you feel better!</p>
+                                    <h2>Servies we provide</h2>
+                                    <p>
+                                    Our dental and cosmetology treatments are designed to bring you relief and enhance your natural beauty. From expert dental care to advanced cosmetic solutions, we focus on making you feel and look your absolute best.</p>
                                     <div className="theme-btn">
                                         <Link to="/">Book an appointment</Link>
                                     </div>

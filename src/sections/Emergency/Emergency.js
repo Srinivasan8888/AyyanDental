@@ -1,7 +1,7 @@
 import React from 'react';
 import './Emergency.scss';
 import SectionTitle from '../../components/SectionTitle/SectionTitle';
-import EmergencyImg from '../../assets/emergency.png';
+import EmergencyImg from '../../assets/dental-emergency.png';
 import { Link } from 'react-router-dom';
 
 const Emergency = () => {
@@ -16,7 +16,7 @@ const Emergency = () => {
                     </div>
                     <div className="col-lg-6 col-md-6">
                         <div className="emergency-text">
-                            <SectionTitle subTitle="Dental 24H Emergency" title="Gentle, friendly treatment from our locally practice." description="Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."/>
+                            <SectionTitle subTitle="Comprehensive 24/7 Dental and Cosmetology Care" title="Gentle, friendly treatment from our locally practice." description="Experience gentle and friendly treatment from our local experts, available around the clock. Our dedicated team ensures exceptional dental and cosmetology services, providing personalized care to address your needs any time of day."/>
 
                             <div className="theme-btn">
                                 <Link to='/'>Book an appointment</Link>

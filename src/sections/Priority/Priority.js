@@ -17,9 +17,9 @@ const Priority = () => {
                     <div className="col-lg-6 col-md-6">
                         <div className="priority-text">
                             <SectionTitle 
-                                subTitle="OUR PRIORITY" 
+                                subTitle="Why choose us?" 
                                 title="Our clients are our priority"
-                                description="Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+                                description="Our skilled and compassionate team of dentists, hygienists, and cosmetologists prioritize your oral health and beauty needs. Experience comprehensive care in a relaxing and patient-friendly atmosphere, where we focus on enhancing both your smile and overall appearance."
                             />
 
                             <div className="theme-btn">

@@ -10,7 +10,8 @@ import Footer from '../sections/Footer/Footer';
 import Services from '../sections/Services/Services';
 import Testimonial from '../sections/Testimonial/Testimonial';
 import AboutBanner from '../sections/AboutBanner/AboutBanner';
-
+import Priority from '../sections/Priority/Priority';
+import Safety from '../sections/Safety/Safety';
 const Home = () => {
 
     return (
@@ -18,6 +19,8 @@ const Home = () => {
             <Navbar/>
             <Banner/>
             <AboutBanner/>
+            <Priority />
+            <Safety />
             <Services/>
             <Emergency/>
             <Features />

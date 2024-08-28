@@ -15,7 +15,9 @@ const AboutBanner = () => {
                             <div className="col-lg-5">
                                 <div className="about-banner-text">
                                     <h2>About Us</h2>
-                                    <p>We want you to feel amazing about your oral wellness. Not just twice a year, but every time you take a bite, tell a joke, laugh, or share a kiss.</p>
+                                    <h4>Our Commitment to your smile</h4>
+                                    <br></br>
+                                    <p>At Ayyan Dental and Cosmetology Clinic, we are dedicated to providing top-notch dental and cosmetology care with a personalized touch. Our experienced team of professionals is committed to ensuring your oral health, enhancing your smile, and addressing your cosmetic needs with the highest level of expertise.</p>
 
                                     <div className="theme-btn">
                                         <Link to='/'>Contact Us</Link>

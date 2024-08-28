@@ -5,13 +5,16 @@ import Gallery from '../sections/Gallery/Gallery';
 import ServiceBanner from '../sections/ServiceBanner/ServiceBanner';
 import Symptoms from '../sections/Symptoms/Symptoms';
 import Appointment from '../sections/Appointment/Appointment';
-
+import ServicesMain from '../sections/Services/ServiceDental';
+import ServiceCosmetology from '../sections/Services/ServicesCosmetology';
 const Services = () => {
     return (
         <>
             <Navbar />
             <ServiceBanner />
-            <Symptoms />
+            <ServicesMain/>
+            <ServiceCosmetology/>
+            {/* <Symptoms /> */}
             <Gallery />
             <Appointment />
             <Footer />

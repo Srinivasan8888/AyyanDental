@@ -27,12 +27,12 @@ const Services = () => {
                 </div>
             </div>
 
-            {/* <div className="services-link text-center">
-                <Link to='/'>
+            <div className="services-link text-center">
+                <Link to='/singleservice'>
                     View all service list
                     <BsFillArrowRightCircleFill/>
                 </Link>
-            </div> */}
+            </div>
         </section>
     );
 };

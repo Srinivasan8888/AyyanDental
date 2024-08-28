@@ -113,6 +113,9 @@ const Footer = () => {
                         <ul>
                             <li><Link to='/'>Terms of Use</Link></li>
                             <li><Link to='/'>Privacy Policy</Link></li>
+                            <br></br>
+                            <br></br>
+                            <li><a href='https://www.linkedin.com/in/srinivasanr8' target='_blank' rel='noopener noreferrer'>Crafted with heart by Srinivasan</a></li>
                         </ul>
                     </div>                          
                 </div>

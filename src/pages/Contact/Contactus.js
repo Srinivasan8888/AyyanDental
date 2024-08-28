@@ -10,9 +10,11 @@ const Contactus = () => {
         <>
             <section className='section-bg section-common contact-section'>
                 <Navbar />
-                <SectionTitle 
+                <br></br>                <br></br>
+
+                <SectionTitle
                     title="Contact Us"
-                    description="Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+                    description="Reach out to us for expert care and personalized consultations in dental and cosmetology services."
                 />
             </section>
             <section className='contact-form-area' data-aos="fade-up" data-aos-duration="2000">

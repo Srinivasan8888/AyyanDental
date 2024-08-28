@@ -22,10 +22,21 @@ const ContactForm = () => {
                     <div class="form-group">
                         <label>Service</label>
                         <select class="form-control">
-                            <option>Teeth Whitening</option>
-                            <option>Teeth Whitening</option>
-                            <option>Teeth Whitening</option>
-                            <option>Teeth Whitening</option>
+                            <option>Scaling and Polishing</option>
+                            <option>Tooth Filling</option>
+                            <option>Root Canal Treatment</option>
+                            <option>Bridges and Crowns</option>
+                            <option>Implant</option>
+                            <option>Orthodontic Braces</option>
+                            <option>Smile Makeover</option>
+                            <option>Skin Lightening</option>
+                            <option>Acne Treatment</option>
+                            <option>Medi Facials</option>
+                            <option>Botox and Fillers</option>
+                            <option>Chemical Peels</option>
+                            <option>PRP Treatment</option>
+                            <option>Laser Hair Reduction</option>
+
                         </select>
                     </div>
                 </div>
@@ -33,10 +44,8 @@ const ContactForm = () => {
                     <div class="form-group">
                         <label>Department</label>
                         <select class="form-control">
-                            <option>Select Department</option>
-                            <option>Select Department</option>
-                            <option>Select Department</option>
-                            <option>Select Department</option>
+                            <option>Dental Department</option>
+                            <option>cosmetology Department</option>
                         </select>
                     </div>
                 </div>
