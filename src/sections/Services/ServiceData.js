@@ -10,7 +10,7 @@ import iconFour from '../../assets/service/8.png';
 const ServicesData = [
     {
         'icon': iconOne,
-        'title': 'Scaling and Polishings',
+        'title': 'Scaling and Polishing',
         'description': 'Enhance your smile with our thorough dental cleaning and polishing for a brighter, healthier look.',
     },
     {

@@ -9,6 +9,7 @@ import shapeOne from '../../assets/banner/vector_01.png';
 import shapeTwo from '../../assets/banner/vector_02.png';
 import shapeThree from '../../assets/banner/vector_03.png';
 import shapeFour from '../../assets/banner/pattern.png';
+import shapeFive from '../../assets/banner/vector_04.png';
 
 const Banner = () => {
 
@@ -22,7 +23,7 @@ const Banner = () => {
                                 <div className="banner-text" data-aos="fade-up" data-aos-duration="2000">
                                     <h1>Welcome to
                                     Ayyan dental & cosmetology clinic</h1>
-                                    <p>Madurai's No. 1 clinic for Orthodontics and Cosmetology, Ayyan Dental Clinic, invites you to take the first step towards a healthier smile. Schedule an appointment with Dr. Meena today. We look forward to serving you and your family with excellence in dental care!</p>
+                                    <p>Ayyan Dental Clinic, invites you to take the first step towards a healthier smile. Schedule an appointment with Dr. Muthu Meena today. We look forward to serving you and your family with excellence in dental care!</p>
 
                                     <div className="banner-bottom">
                                         <div className="theme-btn">
@@ -34,7 +35,7 @@ const Banner = () => {
                                                 <img src={icon} alt="icon" />
                                             </div>
                                             <div className='call-text'>
-                                                <p>Dental 24H Emergency</p>
+                                                <p>Call us</p>
                                                 <h6>+91 882-565-1269</h6>
                                             </div>
                                         </div>
@@ -52,7 +53,7 @@ const Banner = () => {
                                             <img src={doctorImg} alt="doctor" />
                                         </div>
                                         <div className='info-text'>
-                                            <p>Dr. Meena</p>
+                                            <p>Dr.Muthu Meena</p>
                                             <p><small>Consultant</small></p>
                                         </div>
                                     </div>  
@@ -60,6 +61,7 @@ const Banner = () => {
                                     {/* Vector Shapes */}
                                     <div className="shapes">
                                         <img src={shapeOne} alt="shape" />
+                                        <img src={shapeFive} alt="shape" />
                                         <img src={shapeTwo} alt="shape" />
                                         <img src={shapeThree} alt="shape" />
                                         <img src={shapeFour} alt="shape" />

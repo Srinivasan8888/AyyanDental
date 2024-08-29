@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c59f1488.css",
-    "main.js": "/static/js/main.13bd7567.js",
+    "main.js": "/static/js/main.d14cfa99.js",
     "static/js/787.5e725103.chunk.js": "/static/js/787.5e725103.chunk.js",
     "static/media/dental-emergency.png": "/static/media/dental-emergency.e25f9493023945fe324d.png",
     "static/media/1.png": "/static/media/1.7ee5d44283b510ee1579.png",
@@ -17,11 +17,11 @@
     "static/media/pattern_02.png": "/static/media/pattern_02.b4699407d2ecbc775edb.png",
     "index.html": "/index.html",
     "main.c59f1488.css.map": "/static/css/main.c59f1488.css.map",
-    "main.13bd7567.js.map": "/static/js/main.13bd7567.js.map",
+    "main.d14cfa99.js.map": "/static/js/main.d14cfa99.js.map",
     "787.5e725103.chunk.js.map": "/static/js/787.5e725103.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c59f1488.css",
-    "static/js/main.13bd7567.js"
+    "static/js/main.d14cfa99.js"
   ]
 }

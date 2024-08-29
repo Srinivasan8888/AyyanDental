@@ -16,7 +16,7 @@ const ServiceCosmetology = () => {
                         <SectionTitle title="Feel amazing about your skin and beauty" subTitle="Cosmetology Services"/>
                     </div>
                     <div className="col-lg-6 col-sm-6">
-                        <p className='service-title-text'>Cosmetology encompasses the care, enhancement, and treatment of your skin, hair, and overall appearance, including facials, treatments, and makeup application. Cosmetologists also provide guidance on skincare routines and beauty tips to maintain and elevate your natural beauty over time..</p>
+                        <p className='service-title-text'>Cosmetology encompasses the care, enhancement, and treatment of your skin, hair, and overall appearance, Cosmetologists also provide guidance on skincare and haircare routines.</p>
                     </div>
                 </div>
 

@@ -43,6 +43,11 @@ const ServicesDatas = [
         'title': 'Smile Makeover',
         'description': 'Transform your smile with a comprehensive makeover tailored to enhance your appearance.',
     },
+    {
+        'icon': iconFive,
+        'title': 'Extraction',
+        'description': 'extraction is the removal of a tooth from its socket in the bone, often performed due to decay, damage, or crowding',
+    },
    
 ]
 

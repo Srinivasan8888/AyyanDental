@@ -16,15 +16,15 @@ const Services = () => {
                         <SectionTitle title="Feel amazing about your oral health" subTitle="Services"/>
                     </div>
                     <div className="col-lg-6 col-sm-6">
-                        <p className='service-title-text'>Dentistry covers the prevention, diagnosis, and treatment of various oral health issues, including cleanings, exams, and fillings. Dentists also provide education on oral hygiene and preventive care to promote long-term dental health.</p>
+                        <p className='service-title-text'>Dentistry covers the prevention, diagnosis, and treatment of various oral health issues, Dentists also provide education on oral hygiene and preventive care to promote long-term dental health.</p>
                     </div>
                 </div>
 
-                <div className="row">
+                {/* <div className="row">
                     {
                         ServicesData.map(singleService => <Service serviceList={singleService}/>)
                     }
-                </div>
+                </div> */}
             </div>
 
             <div className="services-link text-center">

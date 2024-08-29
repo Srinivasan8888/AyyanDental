@@ -12,7 +12,7 @@ const Safety = () => {
                     description="We prioritize your safety with rigorous protocols and top-quality standards in both dental and cosmetology treatments."                />
 
                 <div className="safety-video ratio ratio-16x9">
-                    <iframe src="https://www.youtube.com/embed/f4jG8BCl5s0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                    <iframe src="https://www.youtube.com/embed/ntx1Nn5C4nI?si=xasGN6Oi2vVGI_4L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
                     </iframe>
                 </div>
             </div>
