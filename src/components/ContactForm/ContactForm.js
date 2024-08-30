@@ -65,7 +65,7 @@ const ContactForm = () => {
                             <img src={icon} alt="icon" />
                         </div>
                         <div className='call-text'>
-                            <p>Dental 24H Emergency</p>
+                            <p>Dental and Cosmetology care</p>
                             <h6>+91 882-565-1269</h6>
                         </div>
                     </div>
