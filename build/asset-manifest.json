@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b7c383a5.css",
-    "main.js": "/static/js/main.1409eef4.js",
+    "main.js": "/static/js/main.6d8c9adb.js",
     "static/js/787.c8793463.chunk.js": "/static/js/787.c8793463.chunk.js",
     "static/media/dental-emergency.png": "/static/media/dental-emergency.e25f9493023945fe324d.png",
     "static/media/1.png": "/static/media/1.7ee5d44283b510ee1579.png",
@@ -17,11 +17,11 @@
     "static/media/pattern_02.png": "/static/media/pattern_02.b4699407d2ecbc775edb.png",
     "index.html": "/index.html",
     "main.b7c383a5.css.map": "/static/css/main.b7c383a5.css.map",
-    "main.1409eef4.js.map": "/static/js/main.1409eef4.js.map",
+    "main.6d8c9adb.js.map": "/static/js/main.6d8c9adb.js.map",
     "787.c8793463.chunk.js.map": "/static/js/787.c8793463.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7c383a5.css",
-    "static/js/main.1409eef4.js"
+    "static/js/main.6d8c9adb.js"
   ]
 }
