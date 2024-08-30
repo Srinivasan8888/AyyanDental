@@ -12,7 +12,7 @@ const ServiceBanner = () => {
                         <div className="row align-items-center">
                             <div className="col-lg-5 col-md-6">
                                 <div className="service-banner-text" data-aos="fade-up" data-aos-duration="2000">
-                                    <h2>Servies we provide</h2>
+                                    <h2>Services we provide</h2>
                                     <p>
                                     Our dental and cosmetology treatments are designed to bring you relief and enhance your natural beauty. From expert dental care to advanced cosmetic solutions, we focus on making you feel and look your absolute best.</p>
                                     <div className="theme-btn">
