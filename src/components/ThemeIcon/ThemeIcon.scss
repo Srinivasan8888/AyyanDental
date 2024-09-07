@@ -3,9 +3,9 @@
 
 .icon-box {
     background: $color-white;
-    width: 80px;
-    height: 80px;
-    line-height: 80px;
+    width: 100%;  // Change to 100%
+    height: 100%; // Change to 100%
+    line-height: 80px; // You might want to adjust or remove this
     border-radius: 20px;
     position: relative;
     z-index: 0;
@@ -14,57 +14,63 @@
     &::before {
         position: absolute;
         content: '';
-        width: 100px;
-        height: 100px;
+        width: 100%;  // Change to 100%
+        height: 100%; // Change to 100%
         background: $color-white;
-        top: -10px;
-        left: -10px;
+        top: 0; // Adjust as needed
+        left: 0; // Adjust as needed
         z-index: -1;
         opacity: .3;
         border-radius: 20px;
     }
 
     img {
-        max-width: 50px;
+        width: 150px;  // Set fixed width
+        height: 150px; // Set fixed height
+        border-radius: inherit; // Ensure the border radius is inherited
+        object-fit: cover; // Ensure the image covers the area
     }
 }
-
 
 // Mobile Responsive
 @media (max-width: 575px) {
     .icon-box {
-        width: 40px;
-        height: 40px;
-        line-height: 40px;
+        width: 100%;  // Change to 100%
+        height: 100%; // Change to 100%
         border-radius: 8px;
 
         &::before {
-            width: 60px;
-            height: 60px;
-            border-radius: 10px;
+            width: 100%;  // Change to 100%
+            height: 100%; // Change to 100%
+            border-radius: 8px;
         }
 
         img {
-            max-width: 25px;
+            width: 150px;  // Set fixed width
+            height: 150px; // Set fixed height
+            border-radius: inherit; // Ensure the border radius is inherited
+            object-fit: cover; // Ensure the image covers the area
         }
     }
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
     .icon-box {
-        width: 40px;
-        height: 40px;
-        line-height: 40px;
+        width: 100%;  // Change to 100%
+        height: 100%; // Change to 100%
         border-radius: 8px;
 
         &::before {
-            width: 60px;
-            height: 60px;
-            border-radius: 10px;
+            width: 100%;  // Change to 100%
+            height: 100%; // Change to 100%
+            border-radius: 8px;
         }
 
         img {
-            max-width: 25px;
+            width: 150px;  // Set fixed width
+            height: 150px; // Set fixed height
+            border-radius: inherit; // Ensure the border radius is inherited
+            object-fit: cover; // Ensure the image covers the area
         }
     }
 }

@@ -6,13 +6,14 @@
     margin-bottom: 30px;
 
     .icon-area {
-        background: #DBDEFA;
-        padding: 80px;
+        padding: 0; // Remove padding to make the icon take full width
         border-radius: 30px;
         margin-bottom: 30px;
 
         .icon-box {
             margin: auto;
+            width: 150px; // Set fixed width
+            height: 150px; // Set fixed height
         }
     }
 
@@ -38,7 +39,7 @@
 @media (min-width: 576px) and (max-width: 767px) {
     .service-box {
         .icon-area {
-            padding: 50px;
+            padding: 0; // Remove padding to make the icon take full width
         }
     }
 }
@@ -47,7 +48,7 @@
 @media (min-width: 768px) and (max-width: 991px) {
     .service-box {
         .icon-area {
-            padding: 50px;
+            padding: 0; // Remove padding to make the icon take full width
         }
     }
 }
@@ -56,7 +57,7 @@
 @media (min-width: 992px) and (max-width: 1199px) {
     .service-box {
         .icon-area {
-            padding: 50px;
+            padding: 0; // Remove padding to make the icon take full width
         }
     }
 }

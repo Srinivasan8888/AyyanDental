@@ -5,40 +5,47 @@ import iconFour from '../../assets/service/11.png';
 import iconFive from '../../assets/service/12.png';
 import iconSix from '../../assets/service/13.png';
 import iconSeven from '../../assets/service/14.png';
+import img1 from '../../assets/service/Cosmetology/skin.jpg';
+import img2 from '../../assets/service/Cosmetology/prp.jpg';
+import img3 from '../../assets/service/Cosmetology/gfc.jpg';
+import img4 from '../../assets/service/Cosmetology/acne.jpg';
+import img5 from '../../assets/service/Cosmetology/peels.jpg';
+import img6 from '../../assets/service/Cosmetology/medi.jpg';
+import img7 from '../../assets/service/Cosmetology/botox.jpg';
 
 const ServicesDatasCosmetology = [
     {
-        'icon': iconOne,
+        'icon': img1,
         'title': 'Skin Lightening',
         'description': 'Achieve a radiant complexion with our advanced skin lightening treatments tailored to your need.',
     },
     {
-        'icon': iconSix,
+        'icon': img2,
         'title': 'PRP Treatment',
         'description': 'Stimulate natural healing and rejuvenation with our innovative PRP therapy.',
     },
     {
-        'icon': iconSeven,
+        'icon': img3,
         'title': 'GFC Treatment',
         'description': 'Treatment involves injecting a patients own blood plasma, enriched with growth factors, to promote tissue healing and regeneration.',
     },
     {
-        'icon': iconTwo,
+        'icon': img4,
         'title': 'Acne Treatment',
         'description': 'Clear and revitalize your skin with our effective acne treatment solutions designed for optimal results',
     },
     {
-        'icon': iconFive,
+        'icon': img5,
         'title': 'Chemical peels',
         'description': 'Renew your skins texture and tone with our customized chemical peel treatments.',
     },
     {
-        'icon': iconThree,
+        'icon': img6,
         'title': 'Medi Facials',
         'description': 'Revitalize your skin with our advanced medi facials, tailored to your needs.',
     },
     {
-        'icon': iconFour,
+        'icon': img7,
         'title': 'Botox and Fillers',
         'description': 'Smooth wrinkles and enhance facial contours with our expert Botox and filler procedures.',
     },
