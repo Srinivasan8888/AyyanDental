@@ -49,6 +49,11 @@ const Footer = () => {
             'icon': time
         },
         {
+            'title': 'Sunday',
+            'info': 'Appointment only',
+            'icon': time
+        },
+        {
             'title': 'Clinic Address',
             'info': 'No 465-467, Ayyan Complex, Madurai Main Road, Near Periyar Statue, Thirumangalam - 625706',
             'icon': location
